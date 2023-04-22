@@ -1,2 +1,3 @@
-# zhimeiliu.github.io
-This page is for math and some other funny stuff.
+Welcome to my personal website!
+I will upload my notes and past paper solutions later on.
+Please be patient!
