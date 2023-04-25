@@ -7291,34 +7291,3 @@ a.credit {
 
 
 
-nav ul li a:hover {
-  background-color: rgba(255, 255, 255, 0.5);
-  color: #378C3F;
-}
-
-
-nav ul li ul {
-  display: block;
-  background: none;
-  min-width: 250px;
-  position: absolute;
-  left:140px;
-
- 
- 
-  margin-bottom: 1px;
-  box-shadow: none;
-  transition: 0.5s;
-  opacity: 0;
-  visibility: hidden;
-}
-
-nav ul li:hover ul {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0px);
-}
-
-nav ul li ul li a {
-  padding: 10px;
-}
